@@ -12,7 +12,7 @@ pipeline {
       }
 
      
-//build no need for python
+//build step no need for python
 
     stage('UNIT TESTS') {
         steps {
